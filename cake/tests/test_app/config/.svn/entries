@@ -1,0 +1,29 @@
+8
+
+dir
+28
+http://svn.assembla.com/svn/ekpenso/cake/tests/test_app/config
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-06-02T16:49:56.768311Z
+28
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+acl.ini.php
+file
+
+
+
+
+2008-06-02T16:50:08.357000Z
+8189a670c767d128aab47dadae62f218
+2008-06-02T16:49:56.768311Z
+28
+ageier
+has-props
+

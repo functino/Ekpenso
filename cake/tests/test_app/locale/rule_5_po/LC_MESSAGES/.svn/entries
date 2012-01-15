@@ -1,0 +1,42 @@
+8
+
+dir
+5
+http://svn.assembla.com/svn/ekpenso/cake/tests/test_app/locale/rule_5_po/LC_MESSAGES
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-23T23:12:34.164889Z
+1
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+default.po
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+cb27c995da384acdb19a86ac209c0e10
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+core.po
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+50207b64dee9ebc4af6f1dfa91420475
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+

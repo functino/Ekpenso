@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ekpenso/!svn/ver/1/cake/tests/test_app/views/layouts
+END
+flash.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ekpenso/!svn/ver/1/cake/tests/test_app/views/layouts/flash.ctp
+END
+session_helper.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ekpenso/!svn/ver/1/cake/tests/test_app/views/layouts/session_helper.ctp
+END
+ajax.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ekpenso/!svn/ver/1/cake/tests/test_app/views/layouts/ajax.ctp
+END
+default.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ekpenso/!svn/ver/1/cake/tests/test_app/views/layouts/default.ctp
+END

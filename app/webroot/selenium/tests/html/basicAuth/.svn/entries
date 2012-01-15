@@ -1,0 +1,29 @@
+8
+
+dir
+31
+http://svn.assembla.com/svn/ekpenso/app/webroot/selenium/tests/html/basicAuth
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-29T20:24:57.896939Z
+19
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+index.html
+file
+
+
+
+
+2007-09-19T23:04:22.000000Z
+3b3621cde2249bfd865862650c639484
+2008-05-29T20:24:57.896939Z
+19
+ageier
+has-props
+

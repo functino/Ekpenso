@@ -1,0 +1,70 @@
+8
+
+dir
+5
+http://svn.assembla.com/svn/ekpenso/cake/console
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-23T23:12:34.164889Z
+1
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+error.php
+file
+28
+
+
+
+2008-06-02T16:50:00.791000Z
+5ef855b9e11de7229c58778fca382100
+2008-06-02T16:49:56.768311Z
+28
+ageier
+has-props
+
+cake
+file
+28
+
+
+
+2008-05-30T04:29:54.000000Z
+3e52d46339bd45faead380f808d2eb24
+2008-06-02T16:49:56.768311Z
+28
+ageier
+
+cake.bat
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+577eb63952a87ced28b2f72dc24022b8
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+cake.php
+file
+28
+
+
+
+2008-06-02T16:50:00.770000Z
+c741c4077274900f906a8492f3acedd3
+2008-06-02T16:49:56.768311Z
+28
+ageier
+has-props
+
+libs
+dir
+

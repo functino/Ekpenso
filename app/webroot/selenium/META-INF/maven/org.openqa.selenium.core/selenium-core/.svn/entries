@@ -1,0 +1,41 @@
+8
+
+dir
+31
+http://svn.assembla.com/svn/ekpenso/app/webroot/selenium/META-INF/maven/org.openqa.selenium.core/selenium-core
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-29T20:21:28.864162Z
+18
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+pom.properties
+file
+
+
+
+
+2007-09-19T23:04:46.000000Z
+a22f3869fab230911b7757f46f10aa1b
+2008-05-29T20:21:28.864162Z
+18
+ageier
+
+pom.xml
+file
+
+
+
+
+2008-05-29T20:21:32.596600Z
+ff783bd8c8163046ea03c29d4ebcaa07
+2008-05-29T20:21:28.864162Z
+18
+ageier
+has-props
+

@@ -1,0 +1,96 @@
+8
+
+dir
+5
+http://svn.assembla.com/svn/ekpenso/cake/console/libs/templates/skel/config
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-23T23:12:34.164889Z
+1
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+sql
+dir
+
+acl.ini.php
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+870814980e11372ec67e2f62d81fdda5
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+bootstrap.php
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+91b770133191392c4c10ddf7d315bb91
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+inflections.php
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+cc336a061861216f89f07969292ea6be
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+routes.php
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+994921b83476393a577d4ceb33fd72ee
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+database.php.default
+file
+28
+
+
+
+2008-05-30T04:29:54.000000Z
+30a13b67250aa74905d31327fda52675
+2008-06-02T16:49:56.768311Z
+28
+ageier
+
+core.php
+file
+28
+
+
+
+2008-06-02T16:50:01.255000Z
+28beac77373bbb920347c018f8c0810a
+2008-06-02T16:49:56.768311Z
+28
+ageier
+has-props
+

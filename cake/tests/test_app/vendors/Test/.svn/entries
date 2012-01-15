@@ -1,0 +1,42 @@
+8
+
+dir
+5
+http://svn.assembla.com/svn/ekpenso/cake/tests/test_app/vendors/Test
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-23T23:12:34.164889Z
+1
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+hello.php
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+ca739a5779cea5ff029992c4017b81eb
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+MyTest.php
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+fe1adda71d69bc0c01812f7e768a3bd6
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+

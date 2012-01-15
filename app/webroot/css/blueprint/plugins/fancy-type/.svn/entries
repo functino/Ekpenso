@@ -1,0 +1,42 @@
+8
+
+dir
+31
+http://svn.assembla.com/svn/ekpenso/app/webroot/css/blueprint/plugins/fancy-type
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-23T23:12:34.164889Z
+1
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+screen.css
+file
+
+
+
+
+2008-04-03T18:52:16.894067Z
+d8f8900e540204da95db7d4ac465be2f
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+readme.txt
+file
+
+
+
+
+2008-05-23T23:13:16.388000Z
+4e88733cdf0edfd23cc565790a70ac9f
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+

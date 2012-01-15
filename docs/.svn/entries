@@ -1,0 +1,55 @@
+8
+
+dir
+5
+http://svn.assembla.com/svn/ekpenso/docs
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-23T23:12:34.164889Z
+1
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+CHANGELOG.txt
+file
+
+
+
+
+2008-05-23T23:15:09.808000Z
+5253c9d823e0de889fc26b710798c9d4
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+COPYING.txt
+file
+
+
+
+
+2008-05-23T23:15:09.822000Z
+fa8700bf4f832666805a414292e82882
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+README.txt
+file
+
+
+
+
+2008-05-23T23:15:09.856000Z
+a2e833f5b94a5615cfd0b39078009cf3
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+

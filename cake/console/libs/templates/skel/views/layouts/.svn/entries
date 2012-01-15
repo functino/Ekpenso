@@ -1,0 +1,67 @@
+8
+
+dir
+5
+http://svn.assembla.com/svn/ekpenso/cake/console/libs/templates/skel/views/layouts
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-23T23:12:34.164889Z
+1
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+xml
+dir
+
+flash.ctp
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+408398426fe5869d4fbd038ca5928385
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+email
+dir
+
+rss
+dir
+
+ajax.ctp
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+ee05337f53f4ceea0a3d0e9ee997ebb0
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+default.ctp
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+cbde54e824ad5fba28c32326be22931c
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+js
+dir
+

@@ -1,0 +1,35 @@
+8
+
+dir
+35
+http://svn.assembla.com/svn/ekpenso/app/vendors/Auth
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-06-14T17:54:18.329236Z
+35
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+OpenID.php
+file
+
+
+
+
+2008-06-14T17:54:24.129000Z
+e7b38de0d076f576107ff35f7fb9f891
+2008-06-14T17:54:18.329236Z
+35
+ageier
+has-props
+
+Yadis
+dir
+
+OpenID
+dir
+

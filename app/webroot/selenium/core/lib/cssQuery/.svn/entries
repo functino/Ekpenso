@@ -1,0 +1,32 @@
+8
+
+dir
+31
+http://svn.assembla.com/svn/ekpenso/app/webroot/selenium/core/lib/cssQuery
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-29T20:21:28.864162Z
+18
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+cssQuery-p.js
+file
+
+
+
+
+2007-09-19T23:04:20.000000Z
+dfdd3a5094537017b3991c749259ab66
+2008-05-29T20:21:28.864162Z
+18
+ageier
+has-props
+
+src
+dir
+

@@ -1,0 +1,55 @@
+8
+
+dir
+31
+http://svn.assembla.com/svn/ekpenso/app/webroot/selenium/core/xpath
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-29T20:21:28.864162Z
+18
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+xpath.js
+file
+
+
+
+
+2007-09-19T23:04:20.000000Z
+ed4b258a2b919ce2a742b84e0504b14d
+2008-05-29T20:21:28.864162Z
+18
+ageier
+has-props
+
+misc.js
+file
+
+
+
+
+2007-09-19T23:04:20.000000Z
+f4afac10214720a97ec8bdc5950dc8c0
+2008-05-29T20:21:28.864162Z
+18
+ageier
+has-props
+
+dom.js
+file
+
+
+
+
+2007-09-19T23:04:20.000000Z
+5f17b4ba503500d60ce00038790f26c3
+2008-05-29T20:21:28.864162Z
+18
+ageier
+has-props
+

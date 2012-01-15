@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/tests/dogfood/aut
+END
+TestBaseUrl1.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/tests/dogfood/aut/TestBaseUrl1.html
+END
+TestBaseUrl2.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/tests/dogfood/aut/TestBaseUrl2.html
+END
+TestTimeout.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/tests/dogfood/aut/TestTimeout.html
+END
+PauseTestSuite.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/tests/dogfood/aut/PauseTestSuite.html
+END
+BaseUrl1TestSuite.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/tests/dogfood/aut/BaseUrl1TestSuite.html
+END
+BaseUrl2TestSuite.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/tests/dogfood/aut/BaseUrl2TestSuite.html
+END

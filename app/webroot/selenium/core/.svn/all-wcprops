@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/core
+END
+iedoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ekpenso/!svn/ver/17/app/webroot/selenium/core/iedoc.xml
+END
+selenium-logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/core/selenium-logo.png
+END
+TestPrompt.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/core/TestPrompt.html
+END
+TestRunner-splash.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/core/TestRunner-splash.html
+END
+TestRunner.hta
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/core/TestRunner.hta
+END
+selenium-test.css
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/core/selenium-test.css
+END
+SeleniumLog.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/core/SeleniumLog.html
+END
+iedoc-core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ekpenso/!svn/ver/13/app/webroot/selenium/core/iedoc-core.xml
+END
+RemoteRunner.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/core/RemoteRunner.html
+END
+selenium.css
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/core/selenium.css
+END
+Blank.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ekpenso/!svn/ver/13/app/webroot/selenium/core/Blank.html
+END
+TestRunner.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/core/TestRunner.html
+END
+InjectedRemoteRunner.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ekpenso/!svn/ver/18/app/webroot/selenium/core/InjectedRemoteRunner.html
+END

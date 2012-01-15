@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ekpenso/!svn/ver/1/cake/tests/test_app/vendors/Test
+END
+hello.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ekpenso/!svn/ver/1/cake/tests/test_app/vendors/Test/hello.php
+END
+MyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ekpenso/!svn/ver/1/cake/tests/test_app/vendors/Test/MyTest.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/ekpenso/!svn/ver/5/
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/ekpenso/!svn/ver/1/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/ekpenso/!svn/ver/1/index.php
+END
+readme_cake.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ekpenso/!svn/ver/1/readme_cake.txt
+END

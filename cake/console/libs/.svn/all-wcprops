@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ekpenso/!svn/ver/1/cake/console/libs
+END
+api.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ekpenso/!svn/ver/28/cake/console/libs/api.php
+END
+testsuite.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ekpenso/!svn/ver/1/cake/console/libs/testsuite.php
+END
+acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ekpenso/!svn/ver/28/cake/console/libs/acl.php
+END
+i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ekpenso/!svn/ver/1/cake/console/libs/i18n.php
+END
+schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ekpenso/!svn/ver/28/cake/console/libs/schema.php
+END
+bake.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ekpenso/!svn/ver/28/cake/console/libs/bake.php
+END
+console.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ekpenso/!svn/ver/1/cake/console/libs/console.php
+END
+shell.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ekpenso/!svn/ver/28/cake/console/libs/shell.php
+END
