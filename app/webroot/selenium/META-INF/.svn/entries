@@ -1,31 +1,0 @@
-8
-
-dir
-31
-http://svn.assembla.com/svn/ekpenso/app/webroot/selenium/META-INF
-http://svn.assembla.com/svn/ekpenso
-
-
-
-2008-05-29T20:21:28.864162Z
-18
-ageier
-
-
-svn:special svn:externals svn:needs-lock
-
-maven
-dir
-
-MANIFEST.MF
-file
-
-
-
-
-2007-09-19T23:04:44.000000Z
-512a4b9f3cac6ebcc2a4129b935c0c77
-2008-05-29T20:21:28.864162Z
-18
-ageier
-
