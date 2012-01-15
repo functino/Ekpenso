@@ -1,111 +1,0 @@
-8
-
-dir
-5
-http://svn.assembla.com/svn/ekpenso/cake/console/libs/templates/skel
-http://svn.assembla.com/svn/ekpenso
-
-
-
-2008-05-23T23:12:34.164889Z
-1
-ageier
-
-
-svn:special svn:externals svn:needs-lock
-
-vendors
-dir
-
-plugins
-dir
-
-webroot
-dir
-
-models
-dir
-
-app_model.php
-file
-
-
-
-
-2008-05-30T04:29:54.000000Z
-d48cd973e563b9f68b89b99c96ee956d
-2008-05-23T23:12:34.164889Z
-1
-ageier
-has-props
-
-index.php
-file
-
-
-
-
-2008-05-30T04:29:54.000000Z
-4aa5fcc3ea63ab39085f747ae08d6933
-2008-05-23T23:12:34.164889Z
-1
-ageier
-has-props
-
-views
-dir
-
-locale
-dir
-
-tmp
-dir
-
-tests
-dir
-
-app_helper.php
-file
-
-
-
-
-2008-05-30T04:29:54.000000Z
-1551d09573ca50a837c3b261b3761d26
-2008-05-23T23:12:34.164889Z
-1
-ageier
-has-props
-
-config
-dir
-
-controllers
-dir
-
-app_controller.php
-file
-
-
-
-
-2008-05-30T04:29:54.000000Z
-a5edde0eb3366ee5268c22d2fde0deab
-2008-05-23T23:12:34.164889Z
-1
-ageier
-has-props
-
-.htaccess
-file
-
-
-
-
-2008-05-30T04:29:54.000000Z
-5271a9e66c99c84c092d7fd81cebcd57
-2008-05-23T23:12:34.164889Z
-1
-ageier
-has-props
-

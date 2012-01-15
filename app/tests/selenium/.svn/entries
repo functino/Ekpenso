@@ -1,32 +1,0 @@
-8
-
-dir
-13
-http://svn.assembla.com/svn/ekpenso/app/tests/selenium
-http://svn.assembla.com/svn/ekpenso
-
-
-
-2008-05-27T19:15:08.937932Z
-13
-ageier
-
-
-svn:special svn:externals svn:needs-lock
-
-my_test_suite.php
-file
-27
-
-
-
-2008-05-29T20:02:03.852600Z
-77ba3ee1aab19497c61b17f3f281adf6
-2008-05-29T20:33:41.245468Z
-27
-ageier
-has-props
-
-cases
-dir
-
