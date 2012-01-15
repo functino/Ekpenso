@@ -1,0 +1,80 @@
+8
+
+dir
+31
+http://svn.assembla.com/svn/ekpenso/app/webroot/selenium/jsunit
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-29T20:21:28.864162Z
+18
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+app
+dir
+
+version.txt
+file
+
+
+
+
+2007-09-19T23:04:20.000000Z
+a0f0f25c4710db68b09d59cc9396659f
+2008-05-29T20:21:28.864162Z
+18
+ageier
+has-props
+
+changelog.txt
+file
+
+
+
+
+2007-09-19T23:04:20.000000Z
+0225db657d7c262ea8fc56617381a478
+2008-05-29T20:21:28.864162Z
+18
+ageier
+has-props
+
+images
+dir
+
+licenses
+dir
+
+css
+dir
+
+readme.txt
+file
+
+
+
+
+2007-09-19T23:04:20.000000Z
+2d23264ca8a31eab7b766f00d493180d
+2008-05-29T20:21:28.864162Z
+18
+ageier
+has-props
+
+testRunner.html
+file
+
+
+
+
+2007-09-19T23:04:20.000000Z
+b9bc04a5079cf5ac6148b6926ed84bf6
+2008-05-29T20:21:28.864162Z
+18
+ageier
+has-props
+

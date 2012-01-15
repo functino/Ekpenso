@@ -1,0 +1,93 @@
+8
+
+dir
+5
+http://svn.assembla.com/svn/ekpenso/cake
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-23T23:12:34.164889Z
+1
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+LICENSE.txt
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+fa8700bf4f832666805a414292e82882
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+console
+dir
+
+tests
+dir
+
+bootstrap.php
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+6590368c244ed413161aa1d7a7573d6b
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+VERSION.txt
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+91fc696860dcb3a6db43cff69ffeee1c
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+config
+dir
+
+libs
+dir
+
+basics.php
+file
+28
+
+
+
+2008-06-02T16:50:00.695000Z
+1cdb317804f54661ef369aebda20d8e4
+2008-06-02T16:49:56.768311Z
+28
+ageier
+has-props
+
+dispatcher.php
+file
+28
+
+
+
+2008-06-02T16:50:01.389000Z
+5c3d4ce64e2a369cc7bf7a75bc294858
+2008-06-02T16:49:56.768311Z
+28
+ageier
+has-props
+

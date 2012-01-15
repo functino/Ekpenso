@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ekpenso/!svn/ver/1/cake/console/libs/templates/skel/config
+END
+acl.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ekpenso/!svn/ver/1/cake/console/libs/templates/skel/config/acl.ini.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ekpenso/!svn/ver/1/cake/console/libs/templates/skel/config/bootstrap.php
+END
+inflections.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ekpenso/!svn/ver/1/cake/console/libs/templates/skel/config/inflections.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ekpenso/!svn/ver/1/cake/console/libs/templates/skel/config/routes.php
+END
+database.php.default
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ekpenso/!svn/ver/28/cake/console/libs/templates/skel/config/database.php.default
+END
+core.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ekpenso/!svn/ver/28/cake/console/libs/templates/skel/config/core.php
+END

@@ -1,0 +1,42 @@
+8
+
+dir
+13
+http://svn.assembla.com/svn/ekpenso/app/vendors/selenium
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-27T19:15:08.937932Z
+13
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+selenium_test_suite.php
+file
+
+
+
+
+2008-05-27T19:15:13.220000Z
+9a5c40d34c8374c9fa95a3d67f50db6e
+2008-05-27T19:15:08.937932Z
+13
+ageier
+has-props
+
+selenium_test_case.php
+file
+
+
+
+
+2008-05-27T19:15:13.203000Z
+94bc258107bf01de611f11258ed058c6
+2008-05-27T19:15:08.937932Z
+13
+ageier
+has-props
+

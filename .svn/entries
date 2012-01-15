@@ -1,0 +1,79 @@
+8
+
+dir
+5
+http://svn.assembla.com/svn/ekpenso
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-24T16:35:17.361392Z
+5
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d7ba3245-3e7b-42d0-9cd4-356c8b94b330
+
+app
+dir
+
+vendors
+dir
+
+cake
+dir
+
+docs
+dir
+
+.htaccess
+file
+
+
+
+
+2008-05-24T17:58:36.740568Z
+ddb682a54052f1df8bc3a1bf16e723ef
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+index.php
+file
+
+
+
+
+2008-05-23T23:15:09.892000Z
+c6adc5e5669b4161d85d6d737ec1bb05
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+readme_cake.txt
+file
+
+
+
+
+2008-04-10T18:19:46.670567Z
+9100a9af18911c5ed1db5223549cd2a8
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+

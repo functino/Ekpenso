@@ -1,0 +1,42 @@
+8
+
+dir
+5
+http://svn.assembla.com/svn/ekpenso/cake/console/libs/templates/skel/webroot/img
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-23T23:12:34.164889Z
+1
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+cake.power.gif
+file
+28
+
+
+
+2008-06-01T21:30:14.000000Z
+bb7e210a60f92e5458e347cf77177c5f
+2008-06-02T16:49:56.768311Z
+28
+ageier
+has-props
+
+cake.icon.gif
+file
+28
+
+
+
+2008-06-01T21:30:14.000000Z
+126fa012915e90db50e73b7c041472e4
+2008-06-02T16:49:56.768311Z
+28
+ageier
+has-props
+

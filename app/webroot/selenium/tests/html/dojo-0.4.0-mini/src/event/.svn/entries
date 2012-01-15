@@ -1,0 +1,68 @@
+8
+
+dir
+31
+http://svn.assembla.com/svn/ekpenso/app/webroot/selenium/tests/html/dojo-0.4.0-mini/src/event
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-29T20:24:57.896939Z
+19
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+__package__.js
+file
+
+
+
+
+2008-05-29T20:25:03.191600Z
+47c19aec203be3ab6d03e913bfb5347d
+2008-05-29T20:24:57.896939Z
+19
+ageier
+has-props
+
+common.js
+file
+
+
+
+
+2008-05-29T20:25:03.230600Z
+acfe93441e3b1d371bd486717cbcb5e2
+2008-05-29T20:24:57.896939Z
+19
+ageier
+has-props
+
+topic.js
+file
+
+
+
+
+2008-05-29T20:25:03.251600Z
+46c8f19c8beccd25de4192c22cebaac2
+2008-05-29T20:24:57.896939Z
+19
+ageier
+has-props
+
+browser.js
+file
+
+
+
+
+2008-05-29T20:25:03.209600Z
+5a2314e15582e9690a08dffe5de8f44f
+2008-05-29T20:24:57.896939Z
+19
+ageier
+has-props
+

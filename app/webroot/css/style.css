@@ -1,0 +1,267 @@
+.box {
+	background-color:white;
+}
+.container
+{
+	width:910px;
+}
+
+html, body
+{
+	margin:0;
+	padding:0;
+	padding:5px;
+	background-color:#4D87C7;
+	background-image:url('/img/layout/site-background.png');
+	background-repeat:repeat-x;
+}
+
+#overall
+{
+	background-color:white;	
+	background-image:url('/img/layout/sidebar-background.png');
+	background-repeat:repeat-y;	
+}
+
+
+a
+{
+	color:#88AA00;
+}
+a:hover
+{
+	color:#4D878C;
+}
+
+
+
+/* style-definitions for the flash-messages/info-messages (see also flashmessage.js) */
+#flashMessage
+{
+	background-color: #2E5479;
+	background-image: url(/img/layout/site-background.png);
+	border: 1px solid #FFFFFF;
+	padding:3px;
+	text-align:center;
+	color:white;
+	font-weight:bold;
+	font-family: Trebuchet MS, Arial, sans-serif;
+}
+
+.error-message
+{
+	color:red;
+}
+
+
+
+/** 
+* Style definitiosn for the pagination-elements
+*/
+.pager
+{
+	padding:4px;
+	border:1px #cccccc solid;
+	background-color:#F1EFE2;
+	margin: 0 auto;
+
+}
+.pager span
+{
+	float:left;
+	display:block;
+	margin-left:5px;
+	margin-right:5px;
+	border:1px black solid;
+	background-color:#6C8604;
+	color:black;
+	padding:4px;
+	padding-bottom:1px;
+	padding-top:1px;
+}
+
+.pager span a
+{
+	display:block;
+	background-color:#376AA7;
+	color:white;	
+	padding:4px;
+	margin-left:-4px;
+	margin-right:-4px;
+	margin-top:-1px;
+	margin-bottom:-1px;
+	text-decoration:none;
+	padding-bottom:1px;
+	padding-top:1px;
+	font-weight:normal;
+}
+
+.pager span a:hover
+{
+	background-color:#6C8604;
+	color:white;
+}
+
+
+
+
+
+/** 
+* Style definitiosn for the top-navigation
+*/
+#navigation 
+{
+	height:51px;
+	background: #FFFFFF url("/img/layout/navigation/middle.png");
+	margin:0;
+	border:0;
+	font-size:13px;
+	font-family: "Trebuchet MS", arial, sans-serif;;
+}
+
+#navigation_box 
+{
+	margin:0;
+	top:0;
+}
+#navigation_box ul 
+{
+	margin:0;
+	padding:0;
+	list-style:none;
+	float:left;
+}
+#navigation_box li 
+{
+	display:inline;
+	float:left;
+	margin:0;
+	padding:0;
+}
+
+#navigation_box a 
+{
+	background:#000000 url("/img/layout/navigation/right.png") no-repeat right top;
+	margin:0;
+	padding:0;
+	text-decoration:none;
+	border:0;
+	display:block;
+	float:left;
+}
+
+#navigation_box a span 
+{
+	display:block;
+	background:url("/img/layout/navigation/left.png") no-repeat left top;
+	padding:0 13px 0 13px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11;
+	color:#000000;
+	font-weight:bold;
+	line-height:51px;
+}
+
+/* the "home" link has a logo in it */
+#navigation_home a span 
+{
+	background:url("/img/layout/navigation/left_logo.png") no-repeat left top;
+	padding-left:140px;
+}
+
+#navigation_box a:hover,#navigation_box li.current a 
+{
+	background-position:right bottom;
+	border-color:;
+}
+#navigation_box a:hover span,#navigation_box li.current a span 
+{
+	background-position:left bottom;
+	color:#88AA00;
+	font-weight:bold;
+	font-style:normal;
+	text-decoration:none;
+}
+
+
+
+/** 
+* Style definitions for the subnavigation/sidebar
+*/
+#subnavigation 
+{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+#subnavigation li
+{
+	margin:0;
+	padding:0;
+}
+
+#subnavigation li a
+{
+	display:block;
+	border-right: 3px #88AA00 solid;
+	background-color: #ffffff;
+	margin:3px;
+	padding:3px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+#subnavigation li a:hover
+{
+	border-right: 3px #FFFFFF solid;
+}
+
+
+
+/** 
+* Input formatting
+*/
+input
+{
+	background: #F1EFE2 url(/img/layout/input-background.jpg) no-repeat left top;
+	border: 1px solid #9a0000;
+	border: 1px solid #BBBBBB;
+	color: #000;
+	margin-top: .2em;
+	padding: .1em .1em .1em .1em;
+}
+
+input:hover, input:focus
+{
+	border-color:#88AA00;
+}
+
+/* red outline for input elements with an error */
+.form-error
+{
+	border:2px red solid;
+}
+
+
+
+
+
+h2, h3
+{
+	border-left: 2px solid #88AA00;
+	padding-left:5px;
+}
+
+h4
+{
+	padding-left:5px;
+	border-left: 1px solid #88AA00;
+}
+
+h2
+{
+	border-bottom: 1px solid #88AA00;
+	border-left: 3px solid #88AA00;
+	padding-left:10px;
+}

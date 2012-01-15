@@ -1,0 +1,97 @@
+8
+
+dir
+31
+http://svn.assembla.com/svn/ekpenso/app/webroot/selenium/tests/dogfood/aut
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-29T20:21:28.864162Z
+18
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+TestBaseUrl1.html
+file
+
+
+
+
+2007-09-19T23:04:22.000000Z
+fe9757e796070b4a396292d38385d69c
+2008-05-29T20:21:28.864162Z
+18
+ageier
+has-props
+
+TestBaseUrl2.html
+file
+
+
+
+
+2007-09-19T23:04:22.000000Z
+5a35d3c73c3411797cbe02a5753f9ba7
+2008-05-29T20:21:28.864162Z
+18
+ageier
+has-props
+
+html
+dir
+
+TestTimeout.html
+file
+
+
+
+
+2007-09-19T23:04:22.000000Z
+872a1ed4c1819355179d5b711f3b5cdf
+2008-05-29T20:21:28.864162Z
+18
+ageier
+has-props
+
+PauseTestSuite.html
+file
+
+
+
+
+2007-09-19T23:04:22.000000Z
+5607fbb05c1ae441e00bce5c5e62d499
+2008-05-29T20:21:28.864162Z
+18
+ageier
+has-props
+
+BaseUrl1TestSuite.html
+file
+
+
+
+
+2007-09-19T23:04:22.000000Z
+656957097a14888fdca93cdd80add5c9
+2008-05-29T20:21:28.864162Z
+18
+ageier
+has-props
+
+BaseUrl2TestSuite.html
+file
+
+
+
+
+2007-09-19T23:04:22.000000Z
+eb0dfabccfdc0c076f150f89a805e29c
+2008-05-29T20:21:28.864162Z
+18
+ageier
+has-props
+

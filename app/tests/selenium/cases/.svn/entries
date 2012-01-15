@@ -1,0 +1,68 @@
+8
+
+dir
+13
+http://svn.assembla.com/svn/ekpenso/app/tests/selenium/cases
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-27T19:15:08.937932Z
+13
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+add_mindmap_test.php
+file
+30
+
+
+
+2008-06-04T08:13:48.939000Z
+4e9a3a7a6d3ad029b95e0e0e53a2c7a5
+2008-06-04T12:58:19.500029Z
+30
+ageier
+has-props
+
+register_test.php
+file
+17
+
+
+
+2008-05-29T08:24:04.359579Z
+247f12eaff47140debf69357fd35ae72
+2008-05-29T08:51:57.270322Z
+17
+ageier
+has-props
+
+feedback_test.php
+file
+27
+
+
+
+2008-05-29T20:18:38.512600Z
+f0344b42b5b68daaea366453efec07e8
+2008-05-29T20:33:41.245468Z
+27
+ageier
+has-props
+
+login_test.php
+file
+17
+
+
+
+2008-05-29T08:23:05.636579Z
+2c8d9031f6c4a6bcabc6d98acfb77598
+2008-05-29T08:51:57.270322Z
+17
+ageier
+has-props
+

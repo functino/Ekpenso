@@ -1,0 +1,129 @@
+8
+
+dir
+5
+http://svn.assembla.com/svn/ekpenso/cake/console/libs
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-23T23:12:34.164889Z
+1
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+api.php
+file
+28
+
+
+
+2008-06-02T16:50:00.868000Z
+1ce1fbbae5729afa1776ae6e3fe29335
+2008-06-02T16:49:56.768311Z
+28
+ageier
+has-props
+
+testsuite.php
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+048aa3bb5c547facea50ae46b409d162
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+acl.php
+file
+28
+
+
+
+2008-06-02T16:50:00.830000Z
+acdd03a644497e9a207c1cf4fbbb2991
+2008-06-02T16:49:56.768311Z
+28
+ageier
+has-props
+
+i18n.php
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+8aa6f0e4d79c8b84009ef6fc52d5359b
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+tasks
+dir
+
+schema.php
+file
+28
+
+
+
+2008-06-02T16:50:00.912000Z
+13b4d44b0f07628e743d84056967a989
+2008-06-02T16:49:56.768311Z
+28
+ageier
+has-props
+
+bake.php
+file
+28
+
+
+
+2008-06-02T16:50:00.891000Z
+0d42312557dfb0f141fda6eb423da414
+2008-06-02T16:49:56.768311Z
+28
+ageier
+has-props
+
+console.php
+file
+
+
+
+
+2008-05-30T04:29:54.000000Z
+f5216db46347cf3617e670cae04458d2
+2008-05-23T23:12:34.164889Z
+1
+ageier
+has-props
+
+validators
+dir
+
+shell.php
+file
+28
+
+
+
+2008-06-02T16:50:00.933000Z
+c550ecfff967b61cdfe499ba95e30d8e
+2008-06-02T16:49:56.768311Z
+28
+ageier
+has-props
+
+templates
+dir
+

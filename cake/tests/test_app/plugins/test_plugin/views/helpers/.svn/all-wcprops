@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ekpenso/!svn/ver/1/cake/tests/test_app/plugins/test_plugin/views/helpers
+END
+test_plugin_helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ekpenso/!svn/ver/1/cake/tests/test_app/plugins/test_plugin/views/helpers/test_plugin_helper.php
+END
+test_plugin_other_helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ekpenso/!svn/ver/1/cake/tests/test_app/plugins/test_plugin/views/helpers/test_plugin_other_helper.php
+END

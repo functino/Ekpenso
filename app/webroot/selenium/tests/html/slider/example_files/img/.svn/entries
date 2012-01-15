@@ -1,0 +1,55 @@
+8
+
+dir
+31
+http://svn.assembla.com/svn/ekpenso/app/webroot/selenium/tests/html/slider/example_files/img
+http://svn.assembla.com/svn/ekpenso
+
+
+
+2008-05-29T20:30:55.324417Z
+25
+ageier
+
+
+svn:special svn:externals svn:needs-lock
+
+right.png
+file
+
+
+
+
+2007-09-19T23:04:24.000000Z
+75f71ae4f79f128b78b2ccdaf54ffd35
+2008-05-29T20:30:55.324417Z
+25
+ageier
+has-props
+
+bg.png
+file
+
+
+
+
+2007-09-19T23:04:24.000000Z
+8b73d0b2899087def8143989b1a08d86
+2008-05-29T20:30:55.324417Z
+25
+ageier
+has-props
+
+left.png
+file
+
+
+
+
+2007-09-19T23:04:24.000000Z
+07dbb0d783de0f612fc47c50207f3c0f
+2008-05-29T20:30:55.324417Z
+25
+ageier
+has-props
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ekpenso/!svn/ver/1/cake/tests/cases/libs/controller
+END
+scaffold.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ekpenso/!svn/ver/28/cake/tests/cases/libs/controller/scaffold.test.php
+END
+component.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ekpenso/!svn/ver/28/cake/tests/cases/libs/controller/component.test.php
+END
+controller.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ekpenso/!svn/ver/28/cake/tests/cases/libs/controller/controller.test.php
+END
+pages_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ekpenso/!svn/ver/1/cake/tests/cases/libs/controller/pages_controller.php
+END

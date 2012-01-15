@@ -1,0 +1,91 @@
+Wer es ausprobieren möchte:
+
+- ladet euch auf apachefriends.org den neuesten XAMPP runter. (für Windows: http://www.apachefriends.org/de/xampp-windows.html)
+- entpacken und setup_xampp.bat ausführen
+- in xampp\apache\conf\httpd.conf mod_rewrite aktivieren (die Raute vor der entsprechenden Zeile entfernen)
+
+- Server über xampp_start.bat starten (und später mit xampp_stop.bat stoppen)
+
+- localhost/phpmyadmin Datenbank anlegen (Name: mindmap, Kollation: utf8_general_ci) SQL-Dump einlesen
+- ins Verzeichnis xampp\htdocs den Ordner mindmap reinkopieren...
+
+http://localhost/mindmap/ aufrufen...
+
+
+
+
+zu CakePHP selbst:
+
+Im Mindmap-Verzeichnis liegen 4 Ordner und 2 Dateien. docs und vendors sind unintressant. in cake liegt der Cake-Core... also das eigentliche Framework - braucht uns auch nicht intressieren. Unsere Dateien liegen dann im app-Verzeichnis.
+
+Im app-Verzeichnis findet ihr dann erstmal eine ganze Menge Ordner und 5 Dateien. Die Dateien sind aber für's erste auch mal unintressant.
+
+CakePHP ist ein MVC-Framework und deshalb finden wir da auch erstmal drei verzeichnisse:
+
+-  models
+Hier liegen die Models, zu jedem Model gehört eine Tabelle in der Datenbank. 
+Folgende Konvention gilt: In der Datenbank Mehrzahl, im Model Einzahl (die Tabelel users gehört also zum Model User).
+
+- controllers
+Hier liegen die controller. Wenn man z.B. die URL localhost/mindmap/users/register aufruft dann leitet Cake den Aufruf an den UsersController weiter und ruft dort die "Action" (also Methode/Funktion) register auf...
+
+- views
+Hier liegen die Views - also die Dateien die enthalten wie das ganze dargestellt werden soll.
+Dabei gibt es hier wieder für jeden Controller ein Unterverzeichnis... Zu dem Aufruf von oben localhost/mindmap/users/register gehört also der View unter view/users/register.ctp
+Das passiert alles automatisch per Konvention - man kann's aber auch händisch anders machen wenn mal will....
+Ein View wird immer in das "layout" eingebunden. Layouts findet man unter views/layouts... die sind also quasi der Rahmen...
+
+
+Neben Model, Controller und View gibt es noch 
+
+Helper:
+Helper kann man in den Views verwenden um sich die Arbeit leichter zu machen oder bestimmte Funktionen zu erreichen. Wichtige Helper sind der HTML- und der FormHelper.
+
+Components:
+Eine Component ist quasi ein Helper - aber jetzt eben im Controller und nicht im view ;-)
+Es gibt z.B. eine MailerComponent mit der man Mails verschicken kann...
+
+Behaviour:
+Behavours sind Erweiterungen für ein Model - es gibt bei CakePHP jede Menge Behavoiurs die einem das Leben leichter machen können...
+
+
+
+
+Im config-Verzeichnis findet man verschiedene Einstellungen:
+core.php: Wichtig hier ist die debug-Einstellung...
+	0 = Fehler werden ignoriert und NICHT ausgegeben
+	1 = Fehler werden angezeigt
+	2 = JEDEs SQL-Query wird unten angezeigt
+
+database.php: Einstellungen zur datenbank
+bootstrap.php: eigene Einstellungen...
+
+
+Im locale-Verzeichnis liegen dann die Übersetzungen...
+Mit der Funktion __('text') wird in den jeweiligen Sprachfiles nach der "msgid" "text" gesucht und die jeweilige Übersetzung ausgegeben.
+Will man was nicht direkt ausgeben sondern zurückgeben einfach __('text', true) aufrufen...
+(Um die Übersetzung können wir uns ja aber auch später kümmern).
+
+
+Wichtig auch noch das app/webroot/-Verzeichnis. Hier liegen dateien die direkt über http aufrufbar sein sollen. In /css liegen logischerweise dann die CSS-Dateien. In /js die JavaScript-Dateien. Ich hab da schonmal jQuery reingehauen weil das die Arbeit mit JavaScript doch tierisch erleichtert und swfObjects weil das inzwischen einer DER Wege ist Flash einzubinden...
+In das /img Verzeichnis habe ich mal die freie Icon-Sammlung famfamfam reingelegt. Die Icons habe ich bisher auch im Viewer verwendet...
+
+
+
+
+
+Ich weiß, sieht auf den ersten Blick alles tierisch kompliziert aus. Hat aber alles seinen Sinn und Zweck und das Framework nennt sich nicht umsonst ein "rapid webdevelopement"-Framework. Man kann damit wirklich sehr schnell entwickeln wen man erstmal die Grundkonzepte verstanden hat... ;-)
+Wenn ihr was nicht versteht einfach fragen. Hab auch 'ne weile gebraucht um mich mit CakePHP zurechtzufinden, aber danach will man's nicht mehr missen ;-)
+Ansonsten übernimm ich auch gern den Server-Teil...
+
+
+
+was ich schonmal testweise implementiert habe:
+
+User kann sich registrieren, einloggen, ausloggen, Paswort ändern, ein neues Passwort anfordern wenn er seines vergessen hat. Mindmaps anlegen, bearbeiten, löschen, vertaggen, nach Tags suchen. Gruppen anlegen, Leute in Gruppen einladen, Gruppen löschen, Leute aus Gruppen entfernen, Mindmaps in Gruppen freigeben, Mindmaps aus Gruppen entfernen. Beim speichern von Mindmaps wird jedesmal eine neue Revision angelegt (history) die dann auch wieder geöffnet werden kann. Grafik-Export (wobei da noch eine irgendwiegeartete Kompression der Daten fehlt).
+
+Ich hab kaum was dokumentiert, nur mal um einen besserne Einstieg zu geben vorallem den users_controller.php, das User-Model...
+
+
+
+

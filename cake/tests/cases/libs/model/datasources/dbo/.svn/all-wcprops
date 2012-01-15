@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ekpenso/!svn/ver/1/cake/tests/cases/libs/model/datasources/dbo
+END
+dbo_adodb.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ekpenso/!svn/ver/1/cake/tests/cases/libs/model/datasources/dbo/dbo_adodb.test.php
+END
+dbo_mssql.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ekpenso/!svn/ver/1/cake/tests/cases/libs/model/datasources/dbo/dbo_mssql.test.php
+END
+dbo_mysql.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ekpenso/!svn/ver/28/cake/tests/cases/libs/model/datasources/dbo/dbo_mysql.test.php
+END
+dbo_oracle.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ekpenso/!svn/ver/1/cake/tests/cases/libs/model/datasources/dbo/dbo_oracle.test.php
+END
+dbo_postgres.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ekpenso/!svn/ver/28/cake/tests/cases/libs/model/datasources/dbo/dbo_postgres.test.php
+END
