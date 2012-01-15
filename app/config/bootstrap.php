@@ -3,22 +3,22 @@
 
 // base domain of the application
 // languag specific urls will add a en., de. or [lang]. subdomain
-Configure::write('base_url', 'ekpenso.com');
+Configure::write('base_url', 'example.com');
 
 // Session-Cookie has to be present in all subdomains, to stay logged in on language changes...
 Configure::write('Session.domain', '.'.Configure::read('base_url'));
 
 //email-configuration
 Configure::write('Email.delivery', 'smtp'); //debug or smtp, in debug-mode no emails are sent.
-Configure::write('Email.from', '<support@ekpenso.com>');
+Configure::write('Email.from', '<support@example.com>');
 
 // these account is used to send the mails
 Configure::write('Email.smtpOptions', array(
 							 'port'=> 25,
-							 'host' => 'smtp.1und1.de',
+							 'host' => 'smtp.example.com',
 							 'timeout' => 30,
-							 'username' => 'support@ekpenso.com',
-							 'password' => 'ekpensosupport'
+							 'username' => 'support@example.com',
+							 'password' => ''
 							 ));
 
 
